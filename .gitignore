@@ -1,6 +1,7 @@
 *.dev
 *.exe
 *.layout
+galager_private.h
 *.rc
 *.res
 *.dll
